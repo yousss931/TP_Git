@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Statut : OK"
+echo "Statut du système : opérationnel"

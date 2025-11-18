@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Page simple</title>
+</head>
+<body>
+  <h1>Bienvenue !</h1>
+  <p>Ceci est une page HTML très simple.</p>
+
+  <h2>À propos</h2>
+  <p>Tu peux modifier ce texte pour parler de toi.</p>
+
+  <h2>Contact</h2>
+  <p>Email : exemple@mail.com</p>
+</body>
+</html>
+
